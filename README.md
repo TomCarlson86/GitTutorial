@@ -194,4 +194,4 @@ Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-
 
 Até semana que vem, um beijo!
 
-Obs: Consegui fazer baixar esse arquivo para a minha máquina seguindo esse tutorial. Klêniton
+Obs: Consegui baixar esse arquivo para a minha máquina seguindo esse tutorial. Klêniton
